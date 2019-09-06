@@ -13,7 +13,7 @@
 }
 .jun2019 a{
 	text-decoration: none;	
-	color: #000;
+	color: black;
 }
 .jun2019 h1{
 	border: 2px solid black;
@@ -22,7 +22,7 @@
 	text-align: center;
 }
 .jun2019 i{
-	color: #000;
+	color: black;
 }
 @media only screen and (min-width: 1100px){
 .jun2019 img{
